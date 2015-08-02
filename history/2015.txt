@@ -1,0 +1,3008 @@
+quakecon clan counts as of 08/02/2015 15:14
+[a2m] --- 40
+     B37-19 Sheik
+     B43-20 Fellstrike
+     B44-16 CodeMA
+     B44-17 General Specific
+     B44-18 Dead Beat
+     B44-19 TTimo
+     B44-20 TheUberMensch
+     B44-21 Cobalt
+     B44-22 Heem
+     B45-14 FADE
+     B45-15 PhiladelphiaCollins
+     B45-16 PreciousDeath
+     B45-17 vix
+     B45-18 Goober
+     B45-19 fragtastic
+     B45-20 Zinfidel
+     B45-21 SkaFreak
+     B45-22 Buckthebeast
+     B46-15 Gutter
+     B46-16 Ancients
+     B46-17 Ahab The Arab
+     B46-19 Mr_Kola
+     B46-20 Skipperdo
+     C44-01 All6's&7's
+     C44-03 Althrin
+     C44-04 Mogo
+     C45-03 Ignorance
+     C45-04 Neony
+     C45-05 Lamby
+     C45-06 Chow Mein
+     C45-12 TheDude
+     C46-02 The Dee
+     C46-03 CrioKnight
+     UAC-01 BouvToTheMax
+     UAC-02 DarkenedSoul
+     UAC-03 Det
+     UAC-04 T-Dawg
+     UAC-13 Canada
+     UAC-14 Estrogen
+     UAC-15 Lohkie
+#2k4ctf --- 27
+     B50-01 GS3K
+     B50-02 Xios
+     B50-03 linoleum
+     B50-04 Blimpo
+     B50-05 glurg
+     B50-06 Esporanza
+     B50-07 Ne0
+     B50-08 nvz
+     B50-09 nyte
+     B50-10 KillEmAll
+     B50-11 Crunchitizmeh
+     B50-12 TGUN
+     B50-13 CaptainMigraine
+     B51-01 ChoWY
+     B51-02 conX5
+     B51-03 PoisonBagels
+     B51-04 ArC
+     B51-05 fr0Zen
+     B51-06 DSK
+     B51-07 bdy
+     B51-08 Palazil
+     B51-09 Defeat
+     B51-10 chubby
+     B51-12 Aria
+     B51-13 Joequel
+     B51-14 kokuei
+     B72-05 turnz
+Crimson Syndicate --- 22
+     B29-18 MrTheGooch
+     B29-19 thesuperfishy
+     B30-17 Anpther
+     B30-18 Verinor
+     B30-19 Camp Kenae
+     B30-20 SirGlitchAlot
+     B31-12 Noxious Ninja
+     B31-16 Slyph
+     B31-18 StalinKnowsBest
+     B31-19 peanut146
+     B31-20 DarkMalice
+     B31-21 ChoZo
+     B31-22 ActionJosh
+     B32-13 Amadeyus
+     B32-14 Tenryu
+     B32-15 Akihoshi
+     B32-18 Hiphopmk
+     B32-19 GerbilTwenty
+     B32-20 Ballsy Renegade
+     B32-21 Claidissa
+     B32-22 Prince Fi
+     B33-17 lagging
+Forum Wh0r3s --- 22
+     A06-01 ShempsKid
+     A25-05 Jauris
+     B08-11 Beaneater
+     B21-01 russellverse
+     B37-15 crochetmonster
+     B37-16 DarkSideofOZ
+     B39-22 AtomicSymphonic
+     B45-13 MrEvil
+     B46-13 Prax
+     B46-14 `Ghost`
+     B46-21 Dinkman72
+     B46-22 TheWildcat
+     B58-22 JuicyBeans
+     C64-07 Zubi
+     UAC-05 sirskippy
+     UAC-06 Neg1
+     UAC-07 BENTLEY
+     UAC-08 Plight
+     UAC-09 dp_
+     UAC-11 FreAk
+     UAC-17 Kigen
+     UAC-19 Halestorm
+JAWA --- 22
+     C39-03 OnLuvMon
+     C39-04 Fairchild
+     C39-05 ArsenicBud
+     C39-06 ZeroXAcid
+     C39-07 mxcnDevl
+     C39-08 Avarien
+     C39-09 Tourke
+     C39-10 Nermen
+     C39-11 Bobo
+     C39-12 BOHNZ
+     C40-02 The_Muffin_Man
+     C40-03 Splat
+     C40-04 Caydenvon
+     C40-05 Dawscon
+     C40-06 Skared
+     C40-07 Hyperion
+     C40-08 TheMassicator
+     C40-09 Jeimax
+     C40-10 Elnots
+     C40-11 WesMantooth
+     C40-12 Obliv
+     C41-07 Nibbles
+USA --- 21
+     B52-01 XiCynx
+     B52-02 Danfzzl
+     B52-03 Bonz
+     B52-04 Naebeamers
+     B52-05 Reserved
+     B52-06 Azor
+     B52-07 KaiserDragon
+     B52-08 Snarky McSnarkson
+     B52-09 CinderByte
+     B52-11 d33pfreeze
+     B52-12 Sdanger
+     B52-13 ShoGUNpanda
+     B53-01 Shorty
+     B53-02 sparkplug188
+     B53-07 WolfeVII
+     B53-08 Grobasch
+     B53-09 DJShazzyJ
+     B53-10 CaptShivers
+     B53-11 Sorato
+     B53-12 Khymera
+     B53-13 BROMBRE
+DT --- 20
+     B70-01 ryos
+     B70-02 Robert Goulet
+     B70-03 RyJahh
+     B70-04 tgh'
+     B70-07 RegulatoR-w-
+     B70-09 thmpr
+     B71-01 james
+     B71-02 hatz
+     B71-04 flip
+     B71-05 rax
+     B71-06 jL
+     B71-07 CodeSpawn
+     B71-08 Reviso
+     B71-09 armbarr
+     B71-10 kaycritt
+     B71-11 bonsai-w-
+     B71-12 F1a13sS
+     B71-14 j4ck
+     B71-16 dlb
+     B72-06 richter
+TeamPlayerGaming --- 20
+     B02-10 Imisnew2
+     B03-05 Skydelta3
+     B03-06 Shinraug
+     B03-09 Reserved
+     B03-10 Reserved
+     B04-01 nathan000
+     B04-02 RADARRAT
+     B04-03 MainEacK
+     B04-04 SourceSkills
+     B04-05 jasonjinx
+     B04-07 Chronicough
+     B04-09 Codilee
+     B05-01 HeavyG
+     B05-02 WileECyte
+     B05-03 sM0Ke
+     B05-04 Kibner
+     B05-05 Cogg
+     B05-06 Salty99
+     B05-07 ab1tar
+     B05-08 Reserved
+NEUBAOWNSTHEQUAKECONPAGE --- 19
+     B04-15 a5thofScotch
+     B04-16 Dirty_Dan!!
+     B05-16 Joshdog
+     B05-17 Robbie685
+     B62-08 VOSS
+     B62-09 lolitsandrew
+     B62-10 Lolitsjohn
+     B62-11 Dogberto
+     B62-12 Etspeed
+     B62-13 evandugas
+     B62-14 cat vondy
+     B62-15 FriendlyNeighborhoodJankemDealer
+     B62-16 robpodo
+     B62-17 hectorino
+     B63-08 lolitstrent
+     B63-09 Neuba
+     B63-10 seastonez
+     B63-13 Joefish
+     B63-15 sillykitty
+FnG --- 17
+     C09-04 finepot
+     C09-05 SailorMoon
+     C09-06 bumperbrady
+     C09-07 MrHappy
+     C09-08 SpongebobNinja
+     C09-09 TJ
+     C10-01 Teh Lorax
+     C10-02 Hardwire
+     C10-04 Stuff
+     C10-05 Xiohexia
+     C10-06 Starlord
+     C10-07 Reserved
+     C10-08 Reserved
+     C11-04 JL_Snorlax
+     C11-06 FireNecros
+     C11-07 RidoKilos
+     C11-08 Zedoya
+TAW --- 17
+     B11-02 NavyChief
+     B25-15 Garbage
+     B25-16 wacky
+     B25-17 FlyDog
+     B26-16 BulletStopper
+     B26-17 ShmeeCow
+     B26-18 Reserved
+     B26-19 alphaprime
+     B26-21 Acekiller
+     B27-13 Cullen
+     B27-14 t0db0t
+     B27-15 Reserved
+     B27-16 FencingMaster
+     B27-17 SpaceJunky
+     B27-18 Wizard
+     B27-19 Nemesis
+     B27-20 sweet.
+Need Moar Pylonz! --- 16
+     B71-03 Wilson
+     B71-13 ahobo951
+     B71-15 Zach
+     B71-17 SnarledTomb
+     B71-18 Danktron Prime
+     B71-19 razldazlchick
+     B71-20 kenney5248
+     B71-21 Dumbpants
+     B71-22 Xoo00o0o0o
+     B72-15 QuantumKiller4
+     B72-16 techienerd01
+     B72-17 deadpenguin
+     B72-18 Reserved
+     B72-19 Červená
+     B72-20 TSG Ex0tic
+     B73-17 The Acez
+[B22] --- 16
+     B22-03 BeathanTV
+     B22-04 IzzyD HOTHEAT{lavaSEC}
+     B22-05 Setton
+     B22-06 Acelias
+     B22-07 Milkman
+     B22-08 dweeb
+     B22-09 ROSCO P. COLTRANE
+     B22-10 Mean1D
+     B23-04 MrGuyTheStampede
+     B23-05 Wildnuke
+     B23-06 HypeRStrikeR
+     B23-08 BigPapi
+     B23-09 Servebot
+     B23-13 bdk
+     B23-14 Xerceves
+     B23-15 God Tlolo
+|PpP| --- 16
+     B24-01 Uiru Sekushi
+     B24-02 Morningwoody
+     B24-03 Straight Up Placenta
+     B24-04 Jaime
+     B24-05 zcon
+     B24-08 Chase B.
+     B25-01 Chapebrone
+     B25-02 DrillMyHole(Brent)
+     B25-03 Gopher
+     B25-04 Geveeso
+     B25-05 The Hoopla
+     B25-06 exacerbater
+     B25-07 Mr. Guggleywubbins
+     B25-08 SuperNintendoChalmers
+     B25-09 Andrewdecob
+     B25-10 Bryzgonaut
+CRAAAAA!!!!! --- 14
+     A64-07 Shenro
+     A65-07 Newman
+     A66-05 Infinite1
+     A67-03 Infinite2
+     A67-04 garbagemanv2
+     A67-05 codylc
+     A67-06 Spoonboy
+     A67-07 Popsock
+     A67-08 LukeHatesCody
+     A67-09 mtodd09
+     A67-10 Moo4You
+     A68-04 ElCorbito
+     A68-05 ErectionThumbs
+     A68-06 Livelong07
+KillerRabbits --- 14
+     A12-01 Reserved
+     A12-02 mrs. donkey
+     A12-03 donkeylicious
+     A12-04 Quick2Die
+     A13-01 MarineDaniel987
+     A13-02 Leo
+     A13-03 smooofa
+     A13-04 ACupofJoe
+     A13-05 Mister Original
+     A13-06 BattleDuck44
+     A13-07 Teravolt
+     A13-08 Rick Ames
+     B13-05 Elf
+     B14-03 Tedder
+LAG --- 14
+     B54-12 Jabbawocki
+     B54-13 BuzzKiller
+     B54-14 LatinAssassin
+     B54-15 Reserved
+     B54-16 LoneStar
+     B55-13 Scorpionox
+     B55-14 Reserved
+     B55-15 Reserved
+     C53-01 NiTeLiTe
+     C53-02 MightyMouse
+     C53-04 vAd0r
+     C53-07 GoodBoy
+     C53-08 Mad_Hat
+     C54-01 CaZrO
+deathbypixels --- 14
+     C25-01 t0ymach1n3
+     C25-02 Nabes
+     C25-03 CONFOX
+     C25-04 raccoonfury
+     C25-05 Vera
+     C25-06 Vash
+     C25-07 GhozyB
+     C26-01 Projekt
+     C26-02 Serenity
+     C26-04 CheeseWheel
+     C26-05 HelenKeller
+     C26-06 PartyboyBrandin
+     C26-07 Stalat
+     C27-06 Webo
+BTSX --- 13
+     C61-01 Bigdog2330
+     C61-02 Mitchapalooza
+     C61-03 Grantly0711
+     C61-04 Mary Fallin
+     C61-05 Grizzlenizzle415
+     C61-06 Char
+     C61-08 DickNixon
+     C62-01 iambookcase
+     C62-02 Captain Battleship
+     C62-03 Junckaroo
+     C62-04 dimage8908
+     C62-06 Chazx
+     C62-07 BAR
+FwB --- 13
+     A49-10 Kron!c
+     A52-06 nfinitesimal
+     A52-07 Joker
+     A52-08 Cinders
+     A52-09 DepTii
+     A52-10 illspirit
+     A53-05 Rayden47
+     A53-06 ChocoPancakes
+     A53-07 B3rz3rk
+     A53-08 Ranman
+     A53-09 Reserved
+     A53-10 khaotik58
+     B54-03 Quarantined
+HYBB --- 13
+     B52-16 SeaWolf
+     B52-17 Shankus
+     B52-19 20k
+     B52-21 Bonestorm
+     B52-22 Victron
+     B53-15 AVHero
+     B53-16 The Comeback Kid
+     B53-17 The Cheat
+     B53-18 Pejah
+     B53-19 MelMar
+     B53-20 Noobits
+     B53-21 Reserved
+     B53-22 Moses
+UTA --- 13
+     C51-07 Deathoflegends
+     C53-11 DJ SnowCone
+     C54-02 Yuuj
+     C54-03 Aethum
+     C54-04 HakuJounin
+     C54-05 Drakke
+     C54-06 Hawk
+     C54-10 TheTuringMachine
+     C54-11 rare meme
+     C54-12 Baldorias
+     C55-02 Animechrono
+     C55-03 Nehemael
+     C55-06 Shadow_Smile
+V1 Tech --- 13
+     A05-10 DirtySouth PCs
+     A06-08 Redstriker
+     A06-10 Red Harbinger
+     A07-03 Qain
+     A07-07 Chef Bobert
+     A07-08 FilipinoAmigo
+     A07-09 CzarTurian
+     A07-10 Complx
+     A08-07 Michael
+     A08-08 V1 Alchemist
+     A08-09 HolyAssertion
+     A09-01 Harbinger
+     A71-10 Young Dobbs
+PWNS --- 12
+     A17-05 Tasiv
+     A17-06 Chump McMonkey
+     A17-07 FajitaMeatPete
+     A17-08 aradatad
+     A17-09 OuchIAteMyself
+     A17-10 Eyerule
+     A18-05 Wererat
+     A18-06 Connor03
+     A18-07 Antomi
+     A18-08 megabytemike
+     A18-09 Sparhax
+     A18-10 Nafei
+SLAM --- 12
+     A70-03 Flipside
+     A70-04 Brosephski
+     A70-05 Jingo Joe
+     A70-06 Hemlock
+     A70-07 Vernum
+     A70-08 Food Stamps
+     A71-02 Jbiggles
+     A71-03 JakeboySnakeman
+     A71-04 Mystery Sock
+     A71-06 EazyBreezy
+     A71-08 Reserved
+     A71-09 Reserved
+Team BOB --- 12
+     C33-06 ForuneCookie
+     C33-07 Tr1ckm0nk3y
+     C33-08 PTRx2
+     C33-09 Lord Reptar
+     C33-10 Drexpert
+     C33-11 LinkSiss
+     C33-12 Sirhutson
+     C34-06 Lykos
+     C34-08 Elesn
+     C34-09 Veo
+     C34-11 WuFame
+     C34-12 Kraden
+WDZ --- 12
+     C41-01 c0nn3ct3d
+     C41-02 Beat_Elite
+     C41-03 WDZJester
+     C41-04 Murx
+     C41-05 JustinDJG
+     C41-06 Ryan
+     C42-01 Sexy Turnip
+     C42-02 Freak
+     C42-03 Slats
+     C42-04 Spork
+     C42-05 Science
+     C42-06 Dr. Ibliß
+no muff too tuff --- 12
+     A15-06 Colin
+     A17-03 SyphonX
+     A18-03 F4RT
+     A20-01 54m50n
+     A20-02 gingerbreadassassin
+     A20-03 HottRodd
+     A20-04 Electrolight
+     A20-07 leesauce
+     A21-01 GuyMcAwesome
+     A21-02 5yrup
+     A21-03 B00
+     A21-04 tky
+Lord's Force --- 11
+     A64-01 AquaneerSupreme
+     A64-02 Lunchboxbeard
+     A64-03 PsychicHandjob
+     A64-04 Nosferatu919
+     A64-05 Kadoba
+     A64-06 Lambanate
+     A65-01 Hustle Bones
+     A65-02 JunoLazerlove
+     A65-03 Pedophile Dundee
+     A65-04 Hyper Buns
+     A65-05 Russell
+SFN --- 11
+     A11-06 KingDong
+     A11-07 Wink4Me
+     A11-08 Mike_Knight
+     A11-09 Och4
+     A11-10 DOHCDragon
+     A12-05 highlander
+     A12-06 MAYDAY
+     A12-07 Run_Silent
+     A12-08 SecretSquirl
+     A12-09 Reserved
+     A12-10 whiterice
+Spacegutter Squad --- 11
+     B61-14 a32warlock
+     B64-14 schlort
+     B64-18 Swizz
+     B64-19 Reserved
+     B64-20 sasskuatch
+     B64-21 DharmaPunk
+     B64-22 Cheshire Cat
+     B65-18 Ettun
+     B65-20 contrabandit
+     B65-21 electronbabies
+     B65-22 WadeofHonor
+bmBros --- 11
+     A21-05 Chewytheshark
+     A21-06 Branana
+     A21-07 Youngshlab
+     A21-08 Jonston
+     A21-09 Onyx
+     A21-10 Mojokojo
+     A22-03 McCoy
+     A22-06 Smoochie Wallace
+     A22-09 Zero-PAiN
+     A22-10 Hippo
+     A23-03 biggypanks
+DH --- 10
+     B30-01 Iknowurcheating
+     B30-02 cereal 0
+     B30-03 CheeZ
+     B30-06 Frogzombie
+     B30-07 Burson
+     B30-08 S1deffect
+     B30-11 L33T5ON
+     B31-02 Kainzo
+     B31-06 Bleak
+     B31-09 Apoth
+FortLAN --- 10
+     A09-08 s_mason16
+     A10-01 BIG-SPENCE
+     A10-03 friskydragon
+     A10-04 Vesuvan
+     A10-05 DarkRetribution
+     A10-06 NickWic
+     A10-07 ChaosClay
+     A10-08 User
+     A10-09 twodavez
+     A10-10 jj_Sky5000
+NaCl --- 10
+     B58-06 Defeated1
+     B58-07 Sinbien
+     B58-08 Grimm
+     B58-09 DEATHDEALER
+     B58-10 Crisk_88
+     B59-07 qtipdoom
+     B59-08 that1guy44
+     B59-09 IIVindicationII
+     B59-10 NeonEquiNoX
+     B59-12 cbalnites
+Space Narwhals --- 10
+     B14-17 Wamo
+     B14-18 Jbro
+     B14-19 Rolf
+     B14-20 Milites
+     B15-16 aggiejedi
+     B15-17 Flye
+     B15-18 Shatti
+     B15-19 I Has A Hat
+     B15-20 Hapless
+     B15-21 Juukka
+Wii Players Club --- 10
+     C57-08 Ragtag21
+     C57-09 Apceros
+     C57-10 Fangorn
+     C57-11 Candyman
+     C57-12 UltPotatoe
+     C58-08 Slater
+     C58-09 Hammersticks
+     C58-10 Amputect
+     C58-11 Reserved
+     C58-12 Pambeazley
+(_(_)BUTT --- 9
+     C12-01 Hugh Janis
+     C12-02 JakefuxFlo
+     C12-03 Danila Spaghetti
+     C12-04 StabbyMcKill
+     C12-05 Alvl99Selby
+     C12-07 (_(_)Masterchops
+     C12-08 GeneralJones
+     C12-09 spartan5811
+     C13-03 Mc butter
+1S2L --- 9
+     C59-04 LegendaryGinger
+     C59-05 Lokiandra
+     C59-06 PinkkTaco
+     C59-07 AverageSandwich
+     C60-04 Reserved
+     C60-05 Leomear
+     C60-06 Runoeh
+     C60-07 ApokalypticNERD
+     C60-08 Asteromeda
+ASr --- 9
+     B28-03 Murphshizzle
+     B28-04 smerf
+     B28-05 lenarschnitzel
+     B28-06 Brittzkrieg
+     B28-07 Varlo
+     B29-05 Neozilla
+     B29-06 Dynas
+     B29-07 Ryanheim
+     B29-08 Ropps
+BUTTHUT --- 9
+     B56-13 Rocky
+     B56-14 BrainSurgeon
+     B56-15 Dinobutt
+     B56-16 Nine Asses
+     B56-17 AryanBarbarian
+     B57-13 LordPriapus
+     B57-14 SrapeGoda
+     B57-15 PenalAffliction
+     B57-17 Sensual Lumberjack
+Cracked-Ice --- 9
+     C43-04 [C-I] FL0WL0W
+     C43-05 [C-I] Titonator102
+     C43-06 [C-I]car6on
+     C43-07 [C-I] Brianson
+     C43-08 [C-I] Lankovich
+     C43-09 [C-I] BukZacH
+     C43-10 Kremmel
+     C43-11 [C-I] SHL0M0
+     C43-12 [C-I] Chesty
+CyberPolice --- 9
+     B19-14 msgoodbar
+     B19-15 Sinketo
+     B20-14 BananasWithAppeal
+     B20-15 seak
+     B20-16 Yungtaekim
+     B20-17 seventhlance
+     B20-18 Junklove
+     B20-19 Sharp
+     B20-20 Wizard
+East Texas Nubs --- 9
+     B59-19 G-Man
+     B59-20 Stormbr1nger
+     B59-21 Cr0W
+     B59-22 JediSpam
+     B60-18 g00se
+     B60-19 Biggity
+     B60-20 shadow_kick
+     B60-21 Lewtron
+     B60-22 VikingBadger
+FSLAN --- 9
+     A16-02 Spankolli
+     A16-03 Bullet Magnet
+     A16-04 Cypher
+     A16-05 MvN_Touk
+     B11-13 Raspberry
+     C14-04 BitKiller
+     C14-11 Ex1le
+     C14-12 serveux
+     C15-09 Lightbringer
+Hammered --- 9
+     A72-01 Niphim
+     A72-04 Frustrated
+     A73-01 Dreyhna
+     A73-02 Tzitzmitl
+     A73-03 cataract
+     A73-04 icen1n3
+     A73-05 Bishizel
+     A73-06 Dette
+     A73-07 JVV
+Kato --- 9
+     A02-01 Wipeout
+     A02-02 Fiction
+     A02-03 Conan
+     A02-04 Suic1deTM
+     A02-05 Alysscock
+     A02-06 JillJillJill
+     A02-08 ericpp
+     A02-09 X-Zippy-X
+     A02-10 Freedom
+Prosper --- 9
+     B67-14 Sadboys
+     B67-15 Pooky
+     B67-16 Beaz
+     B67-17 austEn
+     B67-18 BC
+     B67-19 Alethium
+     B67-20 bchuck
+     B67-21 Mr.Brown
+     B67-22 Griffin
+Space Potatoes --- 9
+     C59-08 Rheapre
+     C59-09 JacksApples
+     C59-10 madscientist
+     C59-11 Edgar Allen Bro
+     C59-12 bysmitty
+     C60-09 Turtool85
+     C60-10 rainfay
+     C60-11 Jaclyninthebox
+     C60-12 ZeroGuardian
+Techit --- 9
+     C31-03 fakebritishguy
+     C32-01 Jewrrick
+     C32-02 Pelvic_Sorceress
+     C32-03 Xpolicy
+     C32-04 Dynamite149
+     C32-06 JethroBoom
+     C32-07 Zomb
+     C32-08 D281knilb
+     C32-09 PossumJenkins
+The Booty Alliance --- 9
+     C25-08 santabomb5
+     C25-09 Teeto Puentes
+     C25-10 Teal Spectre
+     C25-11 Ginox
+     C26-08 ELCHINGONXIII
+     C26-09 The Booty Wariuh
+     C26-10 ThePinkBluR
+     C26-11 The Deekinator
+     C26-12 Harden
+Tudd Fudders Fan Club --- 9
+     B68-02 dflaa
+     B69-01 MwThink
+     B69-02 sanicxx
+     B69-03 the Brayn
+     B69-06 Milkbone911
+     B70-05 Dragon1569
+     B70-06 DJ9123
+     B70-10 Tudd Fudders
+     B70-11 SRJarhead
+[Tek Syndicate] --- 9
+     A34-01 NJM1112
+     A34-03 Commissar
+     A34-04 BioBandit
+     A34-05 imaximus
+     A34-06 Monica_Explosion
+     A34-07 PerfectAgent007
+     A34-08 LarryTek7
+     A34-09 Brendon
+     UAC-31 DANGEROUSGIRL
+zzz --- 9
+     C30-04 Reserved
+     C30-05 Reserved
+     C30-06 Afro
+     C31-04 Reserved
+     C31-05 Chriscool
+     C31-06 Kost
+     C31-07 Reserved
+     C31-08 Reserved
+     C31-09 Reserved
+=HPSF= --- 8
+     B08-18 aznp00n
+     C28-01 rmp00n
+     C28-02 Nazp00n
+     C28-04 kups
+     C29-01 1818
+     C29-02 MurderTrain
+     C29-03 DrunkBus
+     C29-04 TheGuy
+BAP --- 8
+     A15-07 Shooty McDiesAlot
+     A22-04 Atomsk
+     A22-05 Bandito
+     A22-07 TonyPerkis
+     A23-04 hpux
+     A23-05 Funran
+     A23-06 HardwareGuy
+     A23-07 jittles
+Blood Royals --- 8
+     A58-03 Areadne
+     A58-04 Finrus
+     A58-05 Hoshikuro
+     A58-06 MOwens86
+     A59-03 Kazarak
+     A59-04 Lacdannan
+     A59-05 Oricseviltwin
+     A59-06 Aazzen
+C4 Yourself --- 8
+     B59-13 Nytlight
+     B59-14 themitch22
+     B59-15 doug45vamp
+     B59-16 Hydronine
+     B59-17 SnoochieBooch
+     B60-14 Azureion
+     B60-15 bubblymiss
+     B61-13 WatermelonDaiquiri
+Casual Mode --- 8
+     A68-01 Banguin
+     A68-02 Wastrel
+     A68-03 Narwhalrus
+     A69-01 Derel1ct
+     A69-02 Gobbledeguk
+     A69-03 Phyurie
+     A69-04 Andrey
+     A70-01 Redbeard
+Distinguished Men of Class --- 8
+     B28-13 Reserved
+     B28-14 betsybacon
+     B28-15 Reserved
+     B29-13 OddJob
+     B29-14 Rocker32703
+     B29-15 BanjoBurrito34
+     B29-16 Corporal Carnage
+     B29-17 Jeager Bombastic
+Fragging Fraggots --- 8
+     A51-01 PhreqE
+     A51-02 Mattcito
+     A51-03 coolstorybro34
+     A51-04 FoxgirlSaika
+     A51-06 Adofo
+     A51-07 Frozen Iguana
+     A51-08 aZsLaVe
+     A53-04 Lord_Dad
+IMB --- 8
+     B72-08 RockManiac44R
+     B72-09 Don
+     B72-10 Churr
+     B72-11 Willlethekid
+     B72-14 Toast Buddy
+     B73-07 Dubstepbooty
+     B73-08 LordGooch
+     B73-09 jaiiirooooooooo
+NPG --- 8
+     B12-11 NeoNed
+     B12-12 Hito
+     B12-13 BoneHavoc
+     B12-14 DEagle
+     B12-15 Joe Bobber
+     B12-16 IcemanTex
+     B13-13 SteelKage
+     B13-14 KarenC
+Really Old Men --- 8
+     B56-19 Nikithugs
+     B56-20 The American
+     B56-21 Raccoon Jesus
+     B56-22 Tulbuckea
+     B57-19 Avenger3611
+     B57-20 Tea
+     B57-21 Alleyopaa
+     B57-22 Bakingsoda Armscrong
+SVGA --- 8
+     C10-09 rosebud
+     C10-10 Lhogan
+     C10-11 Reserved
+     C10-12 Rhayze
+     C11-09 BadCraziness
+     C11-10 Synesius
+     C11-11 Eradicator
+     C11-12 NuRV
+TheMetro --- 8
+     A16-07 Docmooru
+     B11-12 CaptainBarrel
+     B11-14 MothaChicken
+     B11-15 Pyrn
+     B11-16 Ibotah
+     B11-17 AlexBilliams
+     B11-18 Hi im salami
+     B11-19 Abigantimos
+Xmas Lights --- 8
+     C27-07 cooljoebob64
+     C27-08 Reserved
+     C27-09 Jamwise Slamjee
+     C27-10 Ein2015
+     C27-11 cdasreichk
+     C28-10 Ironhawk
+     C28-11 Aznwaifu
+     C28-12 LSOne
+[k^3] --- 8
+     B12-22 fedmanwinz
+     B13-15 Mxlplxn
+     B13-16 Gaul
+     B13-17 wh173b0y
+     B13-18 JickMagger
+     B13-19 Rail
+     B13-21 mUH
+     B13-22 deathtripp0
+#JustQuakeconThings --- 7
+     B41-21 Nobelium
+     B41-22 Guardian
+     B42-20 Laikan
+     B42-22 Sw1f7
+     B43-19 Agentwise
+     B43-22 Psalms
+     C35-02 MorningWhood
+ACD --- 7
+     C58-01 pf
+     C58-02 Synch
+     C58-03 ab
+     C58-04 Dofley
+     C59-01 pixel5
+     C59-02 tubes
+     C59-03 RAZERGLASS
+Caveman Clan --- 7
+     B06-16 Duffman
+     B06-17 Mr. Barley M. Pushing
+     B06-18 Nox
+     B06-19 ohhaimark
+     B07-17 DJ PHRE$$$HE
+     B07-18 Loser
+     B07-19 ReptarUnchained
+Daz Clan --- 7
+     C44-07 JoJo Cs U
+     C44-08 Reserved
+     C51-08 Rtype97
+     C51-09 TheTaterMan
+     C51-10 KYRY
+     C52-09 Reserved
+     C52-10 Rockwell
+DeadlyGaming --- 7
+     C35-09 WHATSITCALLED
+     C35-10 lostcozz99
+     C35-11 Stevo
+     C35-12 ImJonABoat
+     C36-10 Crimsy
+     C36-11 BatManned
+     C36-12 NameNoOneChose
+Fire Team Haboob --- 7
+     B07-09 Disciple027
+     B07-10 EscaFlowne
+     B07-11 ElmoDestroyerX
+     B07-12 Reserved
+     B07-14 Red Raider
+     B07-15 Heisenberg565
+     B07-20 XaroisDM
+GWR --- 7
+     B01-03 Slayer_GWR
+     B01-04 TexasTornado
+     B01-05 Jonnyyz
+     B01-07 Psycho7shy
+     B01-13 Murpheous
+     B02-02 Phoenix_GWR
+     B02-04 Hazzard1994
+HexagonPC --- 7
+     B07-01 Lavins
+     B07-03 hobbseltoff
+     B07-04 LtDan
+     B08-01 larainzlo07
+     B08-03 Selfie
+     B08-06 Auburi
+     B08-07 Noelic
+IDGAF --- 7
+     B08-19 density911
+     B08-20 Ohhnoes
+     B08-22 Isolate
+     B09-19 jesse2015
+     B09-20 Jojo
+     B09-21 Plagued
+     B09-22 Kitinaice
+Justices of the Piece --- 7
+     A24-01 deathpanda
+     A24-03 Reserved
+     A24-07 rjoe
+     A24-08 tenement funster
+     A24-09 dorkmo
+     A24-10 SpaceRangerJoe
+     A25-09 TmanUBP
+Mutiny --- 7
+     B04-18 Reserved
+     B04-19 Spyder
+     B04-20 Powerswitch
+     B04-21 Chempy
+     B05-18 KidBastard
+     B05-19 Zencyde
+     B05-20 FATMAN
+NERDS --- 7
+     B21-04 bmonboy
+     B21-05 jdubz
+     B21-06 GymThug
+     B21-07 Jmillz
+     B21-08 MMEGA
+     B21-09 Powers75
+     B21-10 SSlotts
+Overvolt --- 7
+     A56-04 zeeee34
+     A56-05 Bobjonez98
+     A56-06 Ace
+     A56-07 Draegon401
+     A57-04 72centimeters
+     A57-05 Pike1950
+     A57-06 stward
+The [405] --- 7
+     C56-03 Disory
+     C56-04 Tindolos
+     C56-05 Celeritas
+     C56-06 Saraibear
+     C56-07 TwooPacc
+     C57-05 Evella
+     C57-06 RevenantXion
+id Software --- 7
+     B12-01 Stark
+     B34-01 Twillits
+     B34-10 patd
+     B36-04 Sesquipedaliant
+     B36-05 Tricell
+     B36-06 ZombieShawn
+     B36-07 Master Shake
+Amish Assassins --- 6
+     A65-06 LegionHeir
+     A66-06 Kappus
+     A66-07 [AA] Xp_3
+     A66-08 [AA] Soulo
+     A66-09 Advocate
+     A66-10 [AA]Cold_B
+Buttercream Gang --- 6
+     A04-05 Judith
+     A04-06 ev0
+     A04-07 Palyup
+     A04-08 Undergr3nades
+     A04-09 The Newest Beta
+     A04-10 Lonesock
+Critgamer.com --- 6
+     C37-01 Kriegster
+     C37-02 SpadeFire91
+     C37-03 Verbatim37
+     C38-02 floodk
+     C38-03 Falcon Five
+     C38-05 TotalFreedom138
+DESU --- 6
+     C49-04 Ryan Desu
+     C49-05 Lawlum
+     C49-06 Foundacious
+     C49-07 Arkempire
+     C49-08 ChewbaccaChris
+     C49-09 Neil_swaguilar
+Gladium --- 6
+     B64-01 CRACKBONE
+     B64-02 TinCrow
+     B64-03 Irishwiz
+     B64-04 Dragonscreed
+     B64-05 Gillette
+     B64-06 Powerful Voss
+Ironfist Rangers --- 6
+     C41-10 Druedain
+     C41-12 Zorr
+     C42-10 ChevyMax
+     C42-11 GIJoeman
+     C42-12 Jabba
+     C46-08 Joseplh
+Killer Rabbits --- 6
+     A19-03 Bagelmeister
+     A19-04 Hardball62
+     A19-07 Landbearshark
+     A19-08 MercuryAce
+     A19-09 ThunderCougarFalconBird
+     A19-10 Weasel
+Maniacally Mad --- 6
+     A58-07 Jim
+     A58-08 Rauche
+     A58-09 Leadphalanx
+     A58-10 Nothingguy
+     A59-07 Stachecat
+     A59-08 Sugarbear
+Panic/Zombspawn --- 6
+     B54-02 RazorbackHitman
+     B54-05 Zombchicken
+     B54-06 AlterSlave
+     B55-01 ModernSlave
+     B55-02 Rogue
+     B55-07 Hogan
+Pingas Expresso --- 6
+     C55-09 felix the cat
+     C55-10 WatsEatsGoobertGrapes
+     C55-11 Integralus
+     C56-08 Oh Da Hamboigahs
+     C56-09 Linalae
+     C56-10 DecretuM
+SMEGMA --- 6
+     B18-01 augr
+     B18-02 phosgene
+     B18-03 ugLee
+     B18-04 swagel
+     B23-11 Faddleworth
+     B23-12 Corbi
+SanAnLAN --- 6
+     B43-13 KnuckleSangwich
+     B43-14 VeNoM
+     B43-15 dougp
+     B43-16 mr__death
+     B43-17 maddooooooog3000
+     B43-18 Oak
+SpiderMan Chat Desu~ --- 6
+     A01-01 shadowmessanger
+     A01-02 Scottiec93
+     A01-03 Equechan
+     A01-04 Nod
+     A01-08 uncannyx
+     A01-09 Best Zed LAO
+TEAM USA --- 6
+     B59-02 Mule
+     B60-01 Nauseous
+     B60-02 duh.meat
+     B60-03 Ambush
+     B60-04 Barnaby
+     B60-05 RambeauxsCuzn
+Texas Gaming --- 6
+     B42-13 auRora
+     B42-14 lovalle
+     B42-15 Methanwyr
+     B42-16 SiemprePositivo
+     B42-17 DustyWarrior
+     B42-18 Jud0
+Triagonals --- 6
+     B68-18 pine-solpower
+     B68-19 RECONGHOST
+     B68-20 Power of G
+     B68-21 Cryofate
+     B68-22 VAULTBOY99
+     B69-21 Zmath
+Wombat Wagon --- 6
+     B33-03 Signus
+     B33-04 Aldenos
+     B33-05 Agent.Piper
+     B33-09 michaelpi
+     B34-05 jex
+     B34-06 Velociyeti
+XNXX --- 6
+     B22-15 Golden Phoenix
+     B22-18 Infinuius
+     B22-19 Rydizzle
+     B22-20 Reserved
+     B23-18 Wheatshat
+     B23-19 MrBojanglezz
+b2m --- 6
+     A64-08 awuwish
+     A64-09 SaviorSelf
+     A64-10 danishpastry
+     A65-08 Zarzer
+     A65-09 Harshfayt
+     A65-10 MrTheBest
+8===D --- 5
+     B35-14 PP Mguire
+     B35-16 Pr|soner627
+     B35-17 MsMurder687
+     B36-15 Fapasaurus Rex
+     B36-16 makirules
+Barely Acceptable --- 5
+     B60-11 Flubbertron
+     B60-12 AlexndrThe6reat
+     B60-13 Reserved
+     B61-11 Reserved
+     B61-12 Reserved
+Bewts Wit Da Fuhrrrrrrrr --- 5
+     A28-01 X420DANKSCOPE69X
+     A28-02 xxbiggurlhunter69xx
+     A28-03 BibbyBear
+     A28-04 Ruzzko
+     A28-05 Captain Jew
+Brazzers --- 5
+     B21-17 Temi Westside
+     B21-18 Reserved
+     B21-19 King Droopy
+     B21-20 Boy with a Cool Dick 2: Nailin' it!
+     B21-21 Hot Girl With Big Tits
+CROWS --- 5
+     B56-06 Jae'Dee Mann
+     B56-07 N|A-Orion
+     B56-08 Wyllow
+     B57-08 Reserved
+     B57-09 Reserved
+Come in with the milk --- 5
+     C17-02 reConfigured
+     C17-03 Statgain
+     C17-04 Alu
+     C17-05 Chair
+     C17-06 Andew4Mayor
+DVDA --- 5
+     B39-14 Raging_Pestilence
+     B39-15 Darkgenerals
+     B40-14 Kommatose
+     B40-15 elhkiller
+     UAC-10 someDevGuy
+DeathBladez --- 5
+     B40-16 kaiser
+     B40-17 Drohung
+     B40-18 Glitch501
+     B40-19 Draconathus
+     B40-20 OmNomBerry
+DoB --- 5
+     C48-04 Son of a Lich
+     C48-05 former carebear
+     C48-06 tiggles
+     C48-07 The Pope
+     C48-08 hodor_mania
+FFS --- 5
+     A60-05 darnclem
+     A60-06 Goober The Gr8
+     A60-07 Anady
+     A60-08 Taliff
+     A60-09 Talumar
+G.O.R.E. --- 5
+     B57-01 theginginator
+     B57-02 MasterZebra
+     B57-03 D3ADSN1P3R
+     B58-03 1d10syncracy
+     B58-04 teBan
+HELICON --- 5
+     B54-01 Drix
+     B55-03 N3CT4R
+     B55-04 LogNberry
+     B55-05 Reality-X
+     B55-06 Chaoshades
+KMA Welders --- 5
+     C52-04 SAPIENCY
+     C52-05 Shadow
+     C52-06 rawkee
+     C52-07 Zanthios
+     C52-08 ferovar
+L3m0n Ch1ck3n --- 5
+     C51-01 TheBingus
+     C51-02 Aethrius
+     C51-04 Katamari101
+     C51-05 Damnitswill
+     C51-06 Katamari102
+Not Applicable --- 5
+     B64-07 Alexxdotcom
+     B65-03 SubaruStig
+     B65-04 Marickiya
+     B65-06 K Poop Sensation
+     B65-07 Yorrick
+Nsomnia --- 5
+     C18-03 mayateslayers
+     C18-04 Mr_Slave916
+     C18-05 Cyd
+     C18-06 W1ckw1re
+     C19-06 Henchman83
+Q2LMCTF --- 5
+     A36-01 uwantEm
+     A36-02 c4talyst
+     A36-03 r!dd
+     A36-04 Buzzkill
+     A36-05 Cronach
+QUACKCON --- 5
+     B18-17 exterminat
+     B18-18 SanicRealm
+     B18-19 DJ Wigglez
+     B19-18 Darthos770
+     B19-19 Kyng
+SGK --- 5
+     A32-01 Tizirk
+     A33-01 Ponzonatron
+     A33-02 Paxphos
+     A33-03 Vauxia
+     A33-05 Solident
+SHAFT --- 5
+     A32-03 Zacharillo
+     A32-04 burnt_t04st
+     A32-05 Brucifer
+     A32-06 JackyAppleJones
+     A33-04 XTrid
+SeaBiscuit --- 5
+     A39-02 MissPiggy
+     A39-03 Reserved
+     A39-04 Reserved
+     A39-05 ZombieGhost
+     A39-06 Naminekills
+TfkT --- 5
+     C61-09 UltraMoose
+     C63-03 Volatile
+     C63-04 Spoon
+     C63-05 beaumega
+     C64-01 Stealthgyro
+The Bobandy Family --- 5
+     B09-13 Reserved
+     B09-14 Reserved
+     B09-15 Snizolf
+     B09-16 YaoYao
+     B10-15 DTubbs
+The Cla$$ Act$ --- 5
+     A54-02 Notaburger
+     A54-03 Airycha
+     A54-04 woot
+     A55-04 p4m3LL4
+     A55-05 Aboth
+The Hue Brothers --- 5
+     B24-13 Tromboy
+     B24-14 APuppyWithATumor
+     B24-15 The Magical Jago
+     B24-16 The Magical Dinosaur
+     B24-17 Hispanic Twist
+WF Gamers --- 5
+     B58-17 DaFerg
+     B58-18 Vex1123
+     B58-19 fluffymexican001
+     B58-20 Crazysquirrel
+     B58-21 Zeroic
+[D|T] --- 5
+     C50-01 achoo92
+     C50-02 Cephys
+     C50-03 IsolatedRainbow
+     C50-04 Palarious
+     C50-05 The Purple Blur
+[QkPR] --- 5
+     B16-18 Ghost_Chill
+     B16-19 PegX
+     B16-20 IcyMind
+     B16-21 Swordmechanic
+     B16-22 Kidyermou
+dank ass memez --- 5
+     B31-13 Prettybiird
+     B31-15 Phalanx of Pugs
+     B31-17 [dAmZ] Dan!
+     B32-16 [dAmZ] kmess
+     B32-17 [dAmZ] Theokrin
+dp --- 5
+     B17-18 afndale
+     B17-19 kirkham
+     B17-20 ashenk
+     B17-21 ghostie
+     B17-22 nogs
+no muff 2 tuff --- 5
+     A16-08 3tosha
+     A17-04 Siege
+     A18-04 Nrrrna
+     A19-06 w4nda
+     B16-07 Allarina
+B4LlIsLiFe --- 4
+     B68-14 Hrathkis
+     B68-15 theaceofjs
+     B69-13 Geno
+     B69-14 Wontuan
+BGB --- 4
+     C29-05 m1abram
+     C29-06 Reserved
+     C29-07 vlance
+     C29-09 Reserved
+COP --- 4
+     B10-03 Standby
+     B10-04 Visconti
+     B10-05 JELLYz
+     B10-06 Juffdaman
+Facestab --- 4
+     C23-01 Bytemonger
+     C23-02 Plume
+     C23-03 Tsudeki
+     C23-04 TXYankee
+Geeksquad --- 4
+     B09-03 waralien
+     B09-05 Reserved
+     B09-06 Skon
+     B09-07 Chris
+HyJynx --- 4
+     C38-08 PsyJynx
+     C38-09 SlynkyJynx
+     C38-10 StynkyJynx
+     C38-12 SlyJynx
+INDT --- 4
+     B72-01 Reserved
+     B72-02 Shamus
+     B72-03 CosbyBebop
+     B72-04 SewingLifeAlchemist
+LOUS --- 4
+     A15-01 brok3n
+     A15-02 MightyEagle
+     A15-03 unikitty3000
+     A15-04 Starrs
+Little Bic --- 4
+     B51-16 TinyBro
+     B51-17 NightBlood
+     B51-18 Flipper
+     B51-19 Bardimus
+MCTX --- 4
+     A63-02 lvnick
+     A63-03 hclewk
+     A63-04 Buzzkill
+     A63-05 tigerlilly
+OMNOMCON --- 4
+     B26-20 Taudry Hepburn
+     B26-22 Schwiing
+     B27-21 Vurion
+     B27-22 FISH ON FIRE
+Pyromancer --- 4
+     C20-02 Naruko
+     C20-03 Pyromancer3D
+     C20-04 EvilInc
+     C20-05 numberfourteen
+Quake N' Bake --- 4
+     C36-08 Tankin
+     C37-05 Sacrificed
+     C37-06 OLD GREGG
+     C37-07 Tc572
+Quatches --- 4
+     C50-09 OldManAboutTown
+     C50-10 Chronoite
+     C50-11 byt3s
+     C50-12 Supercannon
+Roflcopter --- 4
+     B28-18 ZCF
+     B29-20 Snowknight26
+     B29-21 Topherhead
+     B29-22 r45k
+SCOOOOOTER --- 4
+     A55-06 mopandbucket4u
+     A56-01 Scooter
+     A56-02 TheStig
+     A56-03 Burj
+SHERMM --- 4
+     B14-07 FrozenSketch
+     B14-08 Labmonke101
+     B14-09 BlackLancer
+     B14-10 hiltonexecs
+Settlers of Fhtagn --- 4
+     C15-03 HS
+     C15-05 Jujufumpkins
+     C15-07 azurewraith
+     C16-03 Dermis
+Super Barley Bros --- 4
+     C34-07 SpacePope256
+     C43-01 FL1P42
+     C43-02 JD_Shep
+     C44-02 ph03nix42
+Taxonomic Dog Party --- 4
+     A68-07 Deathbyvirus
+     A68-08 Ktargo
+     A68-09 Repulse
+     A68-10 Cormiooski
+Team Gigga --- 4
+     B73-18 GeOvOiD
+     B73-19 Whiteboy!
+     B73-20 Echoic
+     B73-22 Xanadu
+TrueAchievements --- 4
+     B03-01 stew7padaso
+     B03-02 edawg05
+     B03-03 imaidiot19
+     B03-04 Large Coffee
+Tunnel Snakes --- 4
+     B32-07 Fishmonger
+     B32-08 Omega12
+     B32-09 mmmaranda
+     B32-10 Shogun Kane
+YBYS --- 4
+     B33-13 Prof.Blowhole
+     B33-14 Pwntatos
+     B33-15 MaXiMuS
+     B33-16 Rhombas
+[HOAGIES] --- 4
+     B30-13 Tiffer-Lite
+     B30-14 ugotmoliwhapd
+     B30-15 BrokenSausage
+     B30-16 TheNipstar
+[TAC] --- 4
+     B33-06 Exile2387
+     B33-08 Lightzorz
+     B33-10 scottyb
+     B34-07 xNubZx
+[p*h] --- 4
+     B61-08 Elad
+     B65-14 StoneyTheTiger
+     B66-14 Cubd
+     B66-17 JackTheRooster
+[sk] --- 4
+     A62-07 anonfreddy
+     A62-08 kinghippotko
+     A62-09 Parallel
+     A62-10 Billeh_mays
+(-W3rD-) --- 3
+     B60-16 Fancycakes
+     B60-17 Wheezy
+     B61-18 Sparkymus
+-TNDM- --- 3
+     B21-15 Ihazissues
+     B21-16 BreadRunner
+     B22-12 Halfrican
+36K --- 3
+     B38-17 atomek
+     B38-18 BWTadpole
+     B38-19 Developers
+4saken --- 3
+     A55-01 lun
+     A55-02 sploosh
+     A55-03 ConMan
+=FAP= --- 3
+     A28-09 Killer
+     A29-01 Ackbar
+     A29-02 BeepJeep
+Alta Squad --- 3
+     A60-01 JHizzal
+     A60-02 Noble Jon
+     A60-03 Alienshark
+BANANATACO --- 3
+     B05-10 Riahz
+     B05-11 Goldengorilla69
+     B05-12 Brovahkiin
+BIF --- 3
+     A26-01 lonestaz
+     A26-02 mmmeff
+     A26-03 Deceptacle
+BurningPuppies --- 3
+     A31-01 Celex
+     A31-02 Akoz
+     A31-03 Phailsafe
+C-Sec --- 3
+     C46-04 Sanguine Moon
+     C46-05 Edward Snowden Super Spy
+     C46-06 J0rmungandr
+C_C_COOKERS --- 3
+     B13-07 Moshimo
+     B13-08 AATOM
+     B13-09 Skull'N'Bullins
+ClashGamer --- 3
+     B10-17 Th3MadCow
+     B10-18 Nanogenix
+     B10-22 Pizza Dlv Boy
+CrackSmokingMonkeys --- 3
+     B55-09 Hiimr0b
+     B55-10 Jagermaster$100
+     B55-11 forgetful_user
+DeW --- 3
+     B20-10 Reserved
+     B21-02 frenulum
+     B21-03 Abox
+Disgruntled Sea Bass --- 3
+     C37-09 Tyetan
+     C37-11 Bella Bunny
+     C37-12 Pillager1900
+Dookie Monsters --- 3
+     A06-02 silingi
+     A06-03 Rom Swanson
+     A07-05 TuhJuh
+EW --- 3
+     C31-11 Bowhuntr11
+     C31-12 KShe
+     C32-12 Scott
+Equinox Visual --- 3
+     B67-03 Sleepieyed
+     B67-04 Reserved
+     B67-06 Death-Toaster
+FA --- 3
+     B26-05 Jersey Mike and the boys
+     B26-06 Razgriz
+     B26-07 Straylight
+FG --- 3
+     A03-03 RazorGaming56
+     A03-04 LionBattery
+     A04-04 LordVega
+FS --- 3
+     B62-05 phett
+     B62-06 Reserved
+     B62-07 Reserved
+FiTH --- 3
+     B66-08 arcane
+     B66-09 hetsaq
+     B67-09 chief
+Fools --- 3
+     B02-11 Mezigoto
+     B02-12 Cether
+     B02-14 Ravar
+GFKD --- 3
+     B02-06 Spaceball
+     B02-08 Zereck
+     B02-09 Flexo
+Gamers of OSU --- 3
+     B08-13 texan eskimo
+     B08-14 BioCide^
+     B08-15 DKnight
+Just 2 Guyz --- 3
+     B66-01 Guy #1
+     B66-02 Guy #2
+     B66-03 Steve the C
+K4H --- 3
+     B55-17 [K4H]Dad
+     B55-18 [K4H]Holocaust
+     B55-19 Knossos
+Larry Squad --- 3
+     B73-04 Reserved
+     B73-05 Reserved
+     B73-06 Reserved
+MAGG --- 3
+     B13-01 SNDS117
+     B13-02 Brobotjox
+     B14-01 Hivemind
+Murder Me Inc --- 3
+     B36-20 DeadlyKitten
+     B36-21 The Rabbit
+     B36-22 AlaskaIsMine
+NUWC --- 3
+     B11-09 TDF
+     B11-10 Felicrux
+     B11-11 patience
+NikNak --- 3
+     B06-08 Reserved
+     B07-06 Reserved
+     B07-08 Dovahkiff
+NonProphetStudios --- 3
+     B66-20 JackWhitter
+     B66-21 LilHappyKitten
+     B66-22 Lemmingrush
+Noob Refuge --- 3
+     C22-02 data.
+     C22-03 Billygoat
+     C22-06 nomx
+Octo --- 3
+     C16-04 Esk
+     C16-05 H3l1o Kitty
+     C16-08 Automatica
+RTF --- 3
+     C15-10 rmxxx
+     C15-11 ScorpionJ2
+     C15-12 Doomed83
+RXS --- 3
+     B31-03 Duke
+     B31-04 Ghostgtx
+     B31-05 Ashadin
+Reckt'em --- 3
+     A41-01 Overlord5670
+     A41-02 Greenmetal5
+     A41-03 Icedoktaine
+Rogue Squadron --- 3
+     B33-19 Nemesis3640
+     B33-20 PitViper401
+     B33-22 Killer Kitty
+Senior Staff --- 3
+     A36-06 BugSmashR
+     B44-13 myshra
+     B44-14 SatansLH
+TASTYDICKS --- 3
+     C64-04 Kern Paps
+     C64-05 Tatersalad
+     C64-06 propelledraptor
+TF --- 3
+     B41-15 Cycl0ps
+     B41-16 Dooi
+     B41-20 Reserved
+TFB --- 3
+     A26-07 ni-san
+     A26-08 Artemis
+     A27-07 Deathdemise
+TK --- 3
+     A09-03 Reserved
+     A09-04 Reserved
+     A09-05 Reserved
+Taco Stand --- 3
+     B15-02 wildtype
+     B15-03 Pork Taco
+     B15-04 oldbluebox
+Team [OMFG!] --- 3
+     A57-03 MercDemon
+     A57-07 Franzy
+     A57-08 itsTripp
+The Bacon Trolls --- 3
+     B06-05 BFG9001
+     B06-06 sedawk
+     B06-07 chmod700
+The Flaming Gaze --- 3
+     C54-09 Ethan
+     C55-01 Occams Sabre
+     C55-07 BigOlFloppy
+Trigger Warning --- 3
+     C52-01 Shang Hai
+     C52-02 tallpaul02
+     C52-03 Wizard_IRL
+We Don't Pull Out --- 3
+     B14-04 Thradex
+     B14-05 Datalus
+     B14-06 adMinister of Bondage
+[MiT] --- 3
+     B10-11 d1duck
+     B10-14 Zmobie
+     UAC-26 Bloodh0und
+[n00b] --- 3
+     C12-10 Reserved
+     C12-11 Reserved
+     C12-12 D4rk_H4r8in93r
+bustin_the_nuts --- 3
+     C38-04 SSTwerk
+     C38-06 Bustin The Nuts
+     C38-07 Twerkbuzzard
+tniggie --- 3
+     C57-02 Subject81
+     C57-03 Reserved
+     C57-04 Reserved
+-gBa- --- 2
+     B55-20 Vulcan
+     B55-21 Vigilante
+0xRoots --- 2
+     B66-15 Reserved
+     B66-16 HexSpectre
+4MB --- 2
+     C16-11 NomadicJester
+     C16-12 CHATHAM8
+:)KBK:( --- 2
+     B18-13 Reserved
+     B18-14 dookiebot
+<TNQ> --- 2
+     A73-09 Reserved
+     A73-10 TheManInTheWhiteHat
+BR3W --- 2
+     A61-07 DefinitelyNotLanc3
+     A61-08 Reserved
+Bewts Wit Dah Fuhrrrrrrrr --- 2
+     A28-06 LaAwesome
+     A28-08 Hellcat
+Blitzkrieg --- 2
+     C18-01 Blitz!
+     C18-02 Blitz_$
+BreakTheResistance --- 2
+     B25-20 xonelastherox
+     B25-21 Kennyizretro
+Cake Squad --- 2
+     B30-09 Reserved
+     C64-10 Cake Lancelot
+Catforce --- 2
+     C47-04 Slouch
+     C47-07 Freyja
+Chat 2 --- 2
+     A69-05 Reserved
+     A69-07 AkaSpecs
+Chemical Crisis --- 2
+     B61-16 Reserved
+     B61-17 Reserved
+Crab-Battle --- 2
+     A25-01 RagNoRock
+     A25-03 Shockrates
+DBG --- 2
+     A61-05 TaryNNNN
+     A62-01 SNOOZIE
+DTS --- 2
+     B54-07 LettuceHead619
+     B54-08 PokeSMot
+Django Goon Squad --- 2
+     A27-01 frankpaintbrush
+     A27-02 BigMoist69
+Energo --- 2
+     B16-03 byattz0r
+     B16-04 NewfieBullet
+Evil --- 2
+     A31-08 PoizonIV
+     A31-10 56kbps
+Evil Inside --- 2
+     B14-14 Artificiary
+     B14-15 Danimal
+Fallout --- 2
+     A30-03 Chaz
+     A31-04 EP
+FlamingBurritos --- 2
+     B25-22 Bobcob7
+     B69-05 IndiaVenom
+Frag51 --- 2
+     B01-10 Reserved
+     B01-11 Xonos
+Furries --- 2
+     B66-06 AshTR
+     B66-07 baconops
+Fusion --- 2
+     B35-01 mag_safe
+     B35-02 webhead
+GamerzUnite.com --- 2
+     A29-08 zalealb
+     A29-10 Ranga14
+Ghostly Gaming --- 2
+     C64-08 DJ_Turkey
+     C64-09 Kanrail
+GiFT --- 2
+     A40-05 AntiFish03
+     A40-06 sabre3999
+I Can Haz DC++? --- 2
+     UAC-22 HungryNinja
+     UAC-23 7H3 K!//3R
+IOWA --- 2
+     B51-21 Volnai
+     B51-22 FubarP
+Kill Your Attitude --- 2
+     B54-18 darthsunshine
+     B54-20 Mega
+LOCA --- 2
+     B56-09 Emma
+     B56-10 Raider
+LiTHiA Gaming --- 2
+     B13-03 Gryphon
+     B13-04 EmeraldShift
+Llama --- 2
+     C27-01 Lemmings
+     C27-02 Pirateed
+Muppet Clan --- 2
+     B05-21 MC-Waldorf
+     B05-22 MC-Yoda
+Nihonhut Consortium --- 2
+     B63-04 Arochi
+     B63-06 Ryuu
+OPness --- 2
+     A40-01 SudoPro
+     A40-02 Scorpic
+ORTPRO --- 2
+     C49-10 ORTOROryan
+     C49-11 ORTPRO
+Pi Kapp --- 2
+     B72-12 Proffesor_b14
+     B72-13 Bawl is Life
+Praise the Sun! --- 2
+     C19-03 Robbulous
+     C19-05 MAGIC HOBO
+Principality of Zeon --- 2
+     B24-18 Dizzle
+     B25-18 jorpdaq
+Provectus --- 2
+     B03-07 Reserved
+     B03-08 Reserved
+Pwnzerfaust --- 2
+     A14-02 tpwilson
+     A14-03 xlr8
+Ragonk --- 2
+     A08-03 Havvok
+     A08-04 AwkwardGamer
+RaptorAF --- 2
+     B06-09 Reserved
+     B07-07 Reserved
+Ravage --- 2
+     B72-21 th3m3at
+     B72-22 Prinks
+SDB --- 2
+     A11-01 Peri0dBl00d
+     A11-02 Sifter959
+SOFW --- 2
+     B62-18 Dopeboy1010
+     B62-19 Jsmall01
+Sunset Gun --- 2
+     C29-10 grunge19
+     C30-12 0verture
+TRO --- 2
+     C42-07 Tinker
+     C42-08 HELLKAT
+Team 1337 --- 2
+     C16-06 Krim-
+     C16-07 Blamm
+The Booze Cruise --- 2
+     B17-08 Ragnarok n Roll
+     B17-09 a baby rabbit
+Underscore --- 2
+     B24-09 Rookie One
+     B24-10 Felicity
+Vibe Gaming --- 2
+     B41-18 SweetJ
+     B41-19 vi0cs
+Volunteers --- 2
+     B38-20 DKP
+     B38-21 Devil 2 U
+WAK Radio --- 2
+     A74-01 V3rtigo
+     A74-03 Saint_Dementia
+What UGANDA do about it? --- 2
+     A63-06 JackintheB
+     A63-08 Fetus Christ
+YPWB --- 2
+     B24-21 Purple Hurricane
+     B24-22 Omnic1dal
+[B22]{BDK} --- 2
+     B23-03 Pet My Donger
+     B23-07 Warox
+[FSL] --- 2
+     C14-02 Wodahs
+     C15-08 Tetsu
+[WD] --- 2
+     B30-21 Justor
+     B30-22 G4M3W4RR10R
+fuckrrightinthepussy! --- 2
+     A15-08 Fukubear
+     A15-09 b1ak LoTuS
+id --- 2
+     B36-09 SECRETninja
+     B36-10 CrashTestMonkey
+not buyin it --- 2
+     B35-08 theangnat
+     B35-09 cloudkicker
+p*h --- 2
+     B61-09 Posar
+     B66-18 Spoiledmartian
+scrubs --- 2
+     A04-01 clustermonky
+     A04-02 Reserved
+#Carry'd --- 1
+     B67-13 RobsomeAwesome
+#SquxdSquvd#DvnkClvn --- 1
+     B74-19 Professor Bluntington
+#natdm.ql --- 1
+     A54-01 aMunster
+-)D(- --- 1
+     B04-08 Grey -js-
+-FR- --- 1
+     UAC-30 D4NG3R0US
+1up --- 1
+     C44-05 Pyrite
+775 --- 1
+     B27-05 CrAyZeD
+901 --- 1
+     B18-06 lilrail
+A-Team Gaming Community --- 1
+     A35-02 NocturneKittie
+ANCAPS --- 1
+     B54-19 Enraged
+Ateam Gaming Community --- 1
+     A35-06 MaxCFM
+B22 BDK --- 1
+     B23-10 Strag
+B7311 --- 1
+     B74-17 Reserved
+BRICKSQUAAAAAAAAAAAAAAAAAD --- 1
+     B49-01 Noisarius
+Band of Brothers --- 1
+     B34-18 WonderDawg
+Bewts Wit Da Furrrrrrrr --- 1
+     A28-07 ThesaurusWrecks
+Blackhole Gaming --- 1
+     B18-05 Innsomniac
+Blindrun Gaming --- 1
+     A35-03 blindrun
+Bllindrun Gaming --- 1
+     A35-04 Slangarang
+Bootyhole Inc --- 1
+     B67-12 Fabio Enchilada
+Bootyhole Inc. --- 1
+     B67-11 Uneeda Biscuit
+Bratia --- 1
+     B03-13 Reserved
+Bubba's Badasses --- 1
+     B22-01 PappaGrundy
+Burninating the Countryside --- 1
+     C27-03 Elaborate Ruse
+CAEK --- 1
+     B57-06 Madfightermike
+CGU --- 1
+     B29-12 FrostyEdge
+CRAAAA!!!!! --- 1
+     A66-01 Phlux
+Catforce/C-Sec --- 1
+     C47-05 Echostrange
+Counter Goat Initiative --- 1
+     B11-04 TMD
+Cyber Police --- 1
+     B20-13 Zunadi
+DON'T NEED NO CLAN --- 1
+     C54-08 Basket
+Da Dust --- 1
+     C14-10 Dorito Dust
+Dallas Powerlifting --- 1
+     B07-22 Shy
+Dark Oracle --- 1
+     B23-17 DeathOfDesire
+Dead Presidents --- 1
+     B37-14 Defender2803
+Dirty South PC Mods --- 1
+     A05-09 Dark Spider
+Dota Addiction --- 1
+     B70-13 Roadhead
+ETN --- 1
+     B59-18 MrMessy
+Epic! --- 1
+     B09-09 zoidstiz
+Esports Empire --- 1
+     A49-09 kogumaro
+EsportsEmpire --- 1
+     A49-03 Pimbo
+Europe Gamers --- 1
+     B35-10 Lan-Di
+FSL --- 1
+     C14-06 FuzzyMani
+Fireteam haboob --- 1
+     B07-13 Zambrano
+FourthSeal --- 1
+     B58-16 samruaislayr44
+Foxes --- 1
+     A71-05 Princess Fox
+G00NSQUAD --- 1
+     B49-02 wilkonsincarver
+Gamerz Unite --- 1
+     A29-09 megamanx00
+GamerzUnite --- 1
+     A30-08 DrFraggles
+Gassy Turtles --- 1
+     B49-05 Curiosity
+Geeks with Guns --- 1
+     A40-03 Squishee
+HPSF --- 1
+     B08-17 JBp00n
+HardCordOLDFArt gibbers --- 1
+     C09-10 THE BLAZING BEAVER
+House Zemog --- 1
+     B37-18 Reserved
+Hustle & Doom --- 1
+     A41-06 bigdavidmullins
+IP&D --- 1
+     B37-13 Dave Lister
+KTG --- 1
+     A14-07 BitWrecker
+Kennimonsters --- 1
+     A73-08 Badger
+Killrz --- 1
+     B54-22 Jumon
+Kyle is a hoe --- 1
+     B01-14 ArcreacT
+LXIX --- 1
+     B73-14 fluff3panda
+Luscious Young Malchicks --- 1
+     B32-04 Reserved
+Megazord Beef 5 --- 1
+     C35-06 Gnomelester
+MiT --- 1
+     B10-12 leefnmajors
+Moist_Children --- 1
+     B03-19 Moist_Pinecone
+Murder Me Inc. --- 1
+     B35-22 Draegean
+NUEBAOWNSTHEQUAKECONPAGE --- 1
+     B63-07 Alejandro
+New Republic Navy --- 1
+     A06-09 Harbinger
+None --- 1
+     A07-01 Dragunfyr
+NoobRefuge --- 1
+     C22-05 MR_STYLZ
+Oni-Cade --- 1
+     A53-01 Big Bruno
+Oob --- 1
+     C54-07 Oobios
+OutLawZ --- 1
+     B50-15 GeneralDisorder
+PAXholes --- 1
+     B08-04 beeno??
+PCPartPicker --- 1
+     B08-02 manirelli
+Panic --- 1
+     B54-04 Shohei
+QuadX --- 1
+     A61-09 QuadX
+RayJ and CourtBird --- 1
+     A40-04 Courtbird
+Ryan is a slut --- 1
+     B16-15 Ghost of Christmas Ass Whoopins
+SamirSquad --- 1
+     B09-17 Reserved
+Secretely Mexican --- 1
+     B03-17 Cindy Crawford
+Skrub-Nation --- 1
+     B64-13 Reserved
+Skype Kids --- 1
+     A66-03 Oreosnickers
+Skype Lids --- 1
+     A66-04 Mr. Kite
+Star Texans --- 1
+     A09-07 Shinjitama
+Susboys --- 1
+     B05-14 Billy Mays King of TF2
+TAMU --- 1
+     A42-02 SiliconSlick
+TFS --- 1
+     B41-17 GDIsteve
+TFT --- 1
+     B35-11 Amok
+TSL --- 1
+     C42-09 RoguePope
+TX --- 1
+     B57-16 diehard
+TeSPA --- 1
+     C35-01 Velo
+The Caveman Clan --- 1
+     B07-16 TheCavemanCan
+The Moist Children --- 1
+     B03-18 Stan Lee
+ThePretendHeroes --- 1
+     A07-02 Vargess
+Thesug1 --- 1
+     B01-12 Thesug1
+Those Magnificent Men and Their Flying Machines --- 1
+     A14-01 MagnusGman
+Triandonals --- 1
+     B69-22 TwistedFate68
+Tudd Fudder's Fan Club --- 1
+     B70-12 Zero
+Tuddfudders --- 1
+     B69-09 DreamFish
+UD --- 1
+     B11-06 Climhazzard
+UNT --- 1
+     C35-03 Dildo Baggins
+UltimoContinue --- 1
+     A49-07 TaurusKnight
+V1-Tech --- 1
+     A08-10 Reserved
+Volunteer --- 1
+     B35-12 AgentF0x
+W34k S4uc3 --- 1
+     B66-11 C4talyst
+We Need More Lemon Pledge --- 1
+     C61-10 ac1d
+Whazzle Dazzle!!! --- 1
+     A18-01 Reserved
+X-mas Lights --- 1
+     C28-09 Rebelwithoutatrail
+[BS] --- 1
+     A09-06 Majins
+[FnG] --- 1
+     C11-01 McGavin
+[KTG] --- 1
+     A14-06 Dirty Taco
+[PorkChopSandwiches] --- 1
+     B19-06 geppy
+[SoF] --- 1
+     B12-09 SquareOFortune
+[VAG] --- 1
+     A22-01 Hell_Raiser
+a2m --- 1
+     C34-10 FE4R
+boiz next d00r --- 1
+     B02-03 Cuddlebus
+brocraft.net --- 1
+     A67-02 commandoviper
+burk --- 1
+     B70-19 AaronLee0079
+dbp --- 1
+     C26-03 TheChad
+ducklings --- 1
+     B61-02 Snowy
+grÜp with xmas lights --- 1
+     C27-12 Mp3PlayingBreastImplant
+ik4 --- 1
+     C62-10 thelastmeheecan
+krazo --- 1
+     B53-05 Radien
+marauder --- 1
+     B65-19 fulgore666
+osx. --- 1
+     B01-01 Force
+sebchiken --- 1
+     B29-01 Reserved
+turtle --- 1
+     B61-01 turtle
+v1tech --- 1
+     A07-06 beezyboy
+{DFM} --- 1
+     A20-08 ic3ix
+‎The Booty Alliance --- 1
+     C25-12 bertoelcon
+No Clan Listed --- 848
+     A01-05 Baish
+     A01-06 enyco
+     A01-07 Reserved
+     A01-10 KungFutse81
+     A02-07 Zealofx
+     A03-01 BMWodarski
+     A03-02 strcrftprncess
+     A03-05 RAH
+     A03-06 digismack
+     A03-07 Injun_josh
+     A03-08 carmanphreak
+     A04-03 Morlock
+     A05-01 Reverend Bill
+     A05-02 rsayers
+     A05-03 bzar
+     A05-04 A1m1ghty
+     A05-05 reigN
+     A05-06 Reserved
+     A05-07 Reserved
+     A05-08 Smashall1n
+     A06-04 Gl1tch
+     A06-05 Seeker
+     A06-06 woody
+     A06-07 Juggernaut
+     A07-04 Reserved
+     A08-01 Maximo Mephisto
+     A08-02 Combat_Instinct
+     A08-05 Josh
+     A08-06 7thD3adlyS1n
+     A09-02 Haleym2012
+     A10-02 LainP7
+     A11-03 Reserved
+     A11-04 Zaijiko
+     A11-05 EdgE
+     A13-09 Sakiana
+     A13-10 Pyleah
+     A14-04 LeGreg
+     A14-05 Rogue
+     A14-08 Rest In Pieces
+     A15-05 Asterisk73
+     A16-01 Easy Meat
+     A16-06 Reserved
+     A16-09 MrD1sturbed
+     A16-10 CompMage
+     A17-01 JustaRedShirt
+     A17-02 James
+     A18-02 miiba
+     A19-01 Hambone
+     A19-02 Crys
+     A19-05 Reserved
+     A20-05 Vutorious
+     A20-06 monion
+     A22-02 Puzzlerf
+     A22-08 SubZeroLD
+     A23-01 Fifel
+     A23-02 PewPew
+     A23-09 bohica
+     A23-10 snafu
+     A24-02 bearjew87
+     A24-04 Nachooos
+     A24-05 everglows
+     A24-06 rgbRandomizer
+     A25-02 StrangeloveMD
+     A25-04 FreedomStrudel
+     A25-06 ScaryMonster
+     A25-07 Wr3ckin_Cr3w
+     A25-08 bunnybomb
+     A25-10 Bedlam
+     A26-04 JinZu
+     A26-05 Reserved
+     A26-06 Lukasz
+     A27-03 Leonpaintbrush
+     A27-04 Ranger-X
+     A27-05 Kaitlyn
+     A27-06 Frozen
+     A27-08 Micy The Beast
+     A27-09 Khal Burko
+     A27-10 T-Rex
+     A28-10 McCharChar
+     A29-03 Batman.
+     A29-04 Ishkoo
+     A29-05 InsaneTurbo13
+     A29-06 Sumida09
+     A29-07 ScatBlaster
+     A30-01 aldennN^
+     A30-02 xNotorious
+     A30-04 ElectricSheepy
+     A30-05 tstepp
+     A30-06 JesusFre4k21
+     A30-07 kingBROseidon
+     A30-09 rewted
+     A30-10 Hocheckin
+     A31-06 Soseph Jallin
+     A31-07 Paravane
+     A31-09 BananaNutMuffins
+     A32-02 eyekandie
+     A32-07 Qthooloo
+     A32-08 Great Job!
+     A32-09 Merek
+     A33-06 Onecimo347
+     A33-07 sitremba1
+     A33-08 t3hj4p
+     A33-10 AmiableScrooge
+     A34-02 JacobJ
+     A34-10 deckardrun
+     A35-01 specie
+     A35-05 UbuntuAddicted
+     A37-01 Immosabi
+     A37-02 Lewdikris
+     A37-03 Likour
+     A37-04 iTZKooPA
+     A37-05 W0mpRat
+     A37-06 Rinnosuke
+     A38-01 ウイザード
+     A38-02 ProZack
+     A38-03 ThirstyRiver
+     A38-04 Reserved
+     A38-05 MadHatter
+     A38-06 Reserved
+     A39-01 Antihero
+     A41-04 macamac
+     A41-05 Aionwolf
+     A42-01 Sling3r
+     A49-01 Zhan
+     A49-02 Phoenix7700
+     A49-04 Trollberto
+     A49-05 elbrumak
+     A49-06 Frank Da Tank
+     A49-08 Richi22
+     A50-01 Orlandeau
+     A50-02 figure4
+     A50-03 Force
+     A50-04 SpacePanda
+     A50-05 Clef
+     A50-06 Contang0
+     A50-07 MBz
+     A50-08 Shadowless
+     A50-09 Angry_Vibrator
+     A50-10 Hook
+     A51-05 silent tone
+     A52-01 itsspock
+     A52-02 PeasAndClams
+     A52-03 NUUKI
+     A52-04 Rawbeef
+     A52-05 Reserved
+     A53-02 Zeo1
+     A53-03 Monstarz
+     A54-05 Phoebus
+     A54-06 EV
+     A54-07 Dr. Fragger
+     A54-08 Larzz
+     A54-09 Droxik
+     A54-10 Reznic
+     A55-07 AtkinsFriendly
+     A55-08 Milworkz
+     A55-09 PinkTunaTickler6969
+     A55-10 KillaB
+     A56-08 Reserved
+     A56-09 Reserved
+     A56-10 conwac
+     A57-01 chilipepperpie
+     A57-02 turdferguson
+     A58-01 Reserved
+     A58-02 subwoofer99
+     A59-01 commedesfucc
+     A59-09 Lorzoth
+     A59-10 Nokomanida
+     A60-04 Hobo_of_Death
+     A60-10 cwizard
+     A61-01 lilman505
+     A61-02 Jittlelames
+     A61-04 Digillama
+     A61-06 Flopez
+     A61-10 Reserved
+     A62-02 Jazzer
+     A62-03 MannyPoo
+     A62-04 Reserved
+     A62-05 WhaleCum
+     A62-06 FuttBucker
+     A63-07 MilfEnthusiast
+     A66-02 Clapland
+     A67-01 Swede
+     A69-06 Kimbabwe
+     A69-08 Mixtab
+     A70-02 Weremonkey
+     A71-07 Reserved
+     A72-02 ShatFeet
+     A72-03 ThriceCame
+     A72-05 liquidsquid
+     A72-06 ajm1245
+     A72-07 THRASH DADDY
+     A72-08 gr00tZ
+     A72-09 Sloth Broth
+     A72-10 ButtMonkey
+     A74-05 Reserved
+     A74-06 Reserved
+     A74-07 Death
+     A74-08 McSexy
+     A74-10 IcemanXIII
+     B01-02 Citorypke
+     B01-06 Kokone
+     B01-08 kilgurin
+     B01-09 PatDaRat
+     B02-01 Skorno
+     B02-05 nxs_
+     B02-07 KehJeh
+     B02-13 Ruviot
+     B02-15 HORNET
+     B02-16 Light-Darkness
+     B03-12 Bflakes3
+     B03-14 Silvera0
+     B03-15 Reserved
+     B03-16 Professor X
+     B03-20 Reserved
+     B04-06 XPAN7ER
+     B04-10 GluttonousTroll
+     B04-11 Salty Discostick
+     B04-12 The Messiah
+     B04-13 Shibbie
+     B04-14 Reserved
+     B04-17 Reserved
+     B04-22 Sollarii
+     B05-09 wyldkard
+     B05-15 Pirate_h00ker
+     B06-01 bullock081705
+     B06-02 Reserved
+     B06-03 twR2naked
+     B06-04 AmBamQuinzel
+     B06-10 Streak247
+     B06-11 Catalyst
+     B06-12 Reserved
+     B06-13 Reserved
+     B06-14 AndroidNinja4
+     B06-15 Reserved
+     B06-20 NightLilly
+     B06-21 Thedarklord
+     B06-22 m0rt3rf0rk3r
+     B07-02 mashles
+     B07-05 llH4VOKll
+     B07-21 Reserved
+     B08-05 slimthuggin??
+     B08-08 AxeTheKing
+     B08-09 YaBloodyWanker
+     B08-10 Klistofklades
+     B08-16 Reserved
+     B08-21 Pawn
+     B09-01 Deet
+     B09-02 Mr.Shlubb
+     B09-04 HonorableBradio
+     B09-08 Canaduhh
+     B09-10 Reserved
+     B09-18 Reserved
+     B10-01 sekg
+     B10-02 Stiny
+     B10-07 Reserved
+     B10-08 Reserved
+     B10-09 Reserved
+     B10-10 ClonedPickle
+     B10-13 Rethre
+     B10-16 TheVirginLeaguer
+     B10-19 Zol
+     B10-20 Fuji37
+     B10-21 ImInLoveWithTheCoCo
+     B11-01 Jennixous
+     B11-03 SqoonII
+     B11-05 HurricaneShane
+     B11-07 Carnevil
+     B11-08 DemonSphere
+     B11-20 Reserved
+     B11-21 jrazzzz
+     B11-22 k1ngmeow
+     B12-02 helix_3
+     B12-03 Reserved
+     B12-04 TwilightSparkles
+     B12-05 Squizdo
+     B12-06 Reserved
+     B12-07 DiabeticSteph
+     B12-08 DocWat
+     B12-17 AU_Speed
+     B12-18 Reserved
+     B12-19 Z-GRADT
+     B12-20 Reserved
+     B12-21 kahleeb
+     B13-06 DifferentHaX
+     B13-10 Reserved
+     B13-20 Reserved
+     B14-02 Cordedstraw
+     B14-13 Kent_econ
+     B14-16 DudeBot
+     B14-22 DonkyPunchFTW
+     B15-01 BleckLord
+     B15-05 BillGates138
+     B15-06 bowswer5
+     B15-07 Kipi
+     B15-08 Trademark
+     B15-09 Da British Guy
+     B15-10 MrWahfulairon
+     B15-13 cochise99
+     B15-14 DaSmoosh
+     B15-15 Druid
+     B15-22 Reserved
+     B16-01 BlueByLiquid
+     B16-02 forum
+     B16-05 Wxldo
+     B16-06 Sxdpxndx
+     B16-08 DeeseNuts
+     B16-09 RED
+     B16-13 Mindreaver
+     B16-14 Gram64
+     B16-16 Evilteddy7
+     B16-17 Cordis
+     B17-01 trekkie1701c
+     B17-02 ComaToast
+     B17-03 Faalkorum
+     B17-04 RedLeader
+     B17-05 Teve
+     B17-06 Distine
+     B17-07 Silent K
+     B17-10 Mushety
+     B17-14 JESTER
+     B17-15 Skraps
+     B17-17 Matthew9559
+     B18-07 foom
+     B18-08 ascii
+     B18-09 jvh
+     B18-10 guybrush_mp
+     B18-16 Big Dookie
+     B18-20 Lance McHardwood
+     B18-21 RedPandaBoy
+     B18-22 DataSpree
+     B19-01 wetmysneech
+     B19-02 Brac2009
+     B19-03 megadeus
+     B19-04 Zephyr
+     B19-05 Dairius
+     B19-07 PolarityGrease
+     B19-08 theUMP
+     B19-09 physicspants
+     B19-10 Count_Spatula
+     B19-17 Tootsie
+     B19-21 Macho187
+     B19-22 Lord Thundar
+     B20-01 rapturre
+     B20-02 Rimshot
+     B20-03 AlGore
+     B20-04 J0E
+     B20-05 Phyr
+     B20-06 Bobthehobo
+     B20-07 SkullQueen1313
+     B20-08 AV3RI
+     B20-09 Sp1ke
+     B20-21 Reserved
+     B20-22 The Inevitable
+     B21-13 Wanker
+     B21-14 chaddercheese
+     B21-22 Jonshock
+     B22-02 kittysox
+     B22-11 SpotterX
+     B22-13 bluecrysis22
+     B22-14 BEEF SUPREME
+     B22-16 Antroxium
+     B22-17 Notastudmuffin
+     B22-21 Reserved
+     B22-22 Reserved
+     B23-01 Joe_Molotov
+     B23-02 GreatRumbler
+     B23-16 HomerGonerson
+     B23-21 Cherry
+     B23-22 Narosia
+     B24-06 Dark Reaper
+     B24-07 Reserved
+     B24-11 Reserved
+     B24-12 Reserved
+     B24-19 Cybersonic
+     B25-12 Tesla
+     B25-13 CatInTheHat
+     B25-14 LivingLegend
+     B25-19 TheCollins
+     B26-01 Reserved
+     B26-02 Resident
+     B26-03 Reserved
+     B26-04 Tellous
+     B26-08 gnar_killin
+     B26-09 Aizlinn
+     B26-10 orbv
+     B26-13 Fen
+     B26-14 wat
+     B26-15 EpicallyLee
+     B27-01 V01d3d
+     B27-02 DaniMo
+     B27-03 JoabR
+     B27-04 jasonpiano25
+     B27-06 ARiceParadise
+     B27-07 Reserved
+     B27-08 wgcarly
+     B27-09 Xclone
+     B27-10 crayzed_troll
+     B28-01 Zorcher
+     B28-02 julietabbouli
+     B28-08 MassivePARANOiA
+     B28-09 POINTY
+     B28-10 emtle
+     B28-16 ShadowCid
+     B28-17 Heavenly Flame
+     B28-19 Reserved
+     B28-20 UmaTora
+     B28-22 Magikltrevr
+     B29-02 Reserved
+     B29-03 iggi
+     B29-04 ColonelPanic
+     B29-09 sirchewi3
+     B29-10 Freke
+     B29-11 spdrstar
+     B30-04 ormis
+     B30-05 tactless
+     B30-10 rew1red
+     B31-01 EnGiNeErPeoN
+     B31-07 Reserved
+     B31-08 DarkCyde2005
+     B31-10 Muramasa
+     B31-11 Jellybee
+     B31-14 zombunnie
+     B32-01 Reserved
+     B32-02 BlackVen0m13
+     B32-03 Gecko822
+     B32-05 Reserved
+     B32-06 Threevid
+     B32-11 Montag
+     B32-12 TexasAsir
+     B33-01 invalidpeer
+     B33-02 star0fthesea
+     B33-07 DeusExMachina
+     B33-21 Rogue3640
+     B34-02 Reserved
+     B34-03 Reserved
+     B34-04 Kasijjuf
+     B34-08 Reserved
+     B34-09 Reserved
+     B34-13 Arealia
+     B34-14 Nerdform
+     B34-15 Cipote214
+     B34-16 Reserved
+     B34-17 HotCheetos&Takis
+     B34-19 Reserved
+     B34-20 Reserved
+     B34-21 Reserved
+     B34-22 Eric
+     B35-03 WinD
+     B35-04 Reserved
+     B35-05 Reserved
+     B35-06 Red Lobster
+     B35-07 Durandal
+     B35-13 MrGoat
+     B35-15 Sargentsmite
+     B35-18 crazythan
+     B35-19 Rokador24
+     B35-20 DearestMoose
+     B35-21 Reserved
+     B36-01 Bearrito
+     B36-02 Burt
+     B36-03 onu
+     B36-08 Schnapple
+     B36-11 NaRa_
+     B36-12 Valletta
+     B36-13 OMG_popsicles
+     B36-14 quintalius
+     B36-17 Reserved
+     B36-18 Finadin
+     B36-19 Thor
+     B37-17 pd_snipe
+     B37-20 Vanskater
+     B37-21 Tenen
+     B37-22 Abbeast
+     B38-13 oldno7
+     B38-14 barb
+     B38-15 Reserved
+     B38-16 The Jew
+     B38-22 Cytozen
+     B39-13 Randall
+     B39-16 TexasHammer
+     B39-17 Taygurrll
+     B39-18 UncleWhoopAss
+     B39-19 Cruxly
+     B39-20 Justincredible
+     B39-21 CARVER
+     B40-13 Funkula
+     B40-21 Empty
+     B40-22 fourtwenty
+     B41-13 zackbatl
+     B41-14 Matrix
+     B42-19 cleantowels
+     B42-21 Night_Wing
+     B43-21 l Kaze l
+     B44-15 blitter
+     B49-03 Awesomeo
+     B49-04 MWGjak
+     B49-06 Winsaver
+     B49-07 GeneralSativa
+     B49-08 DethSpade
+     B49-09 KellyCatt
+     B49-10 Valin
+     B50-14 ReclaimJoey
+     B50-16 Reserved
+     B50-17 Reserved
+     B50-18 hackaustin
+     B50-19 Whyufoaminbrah
+     B50-20 CookieDragonLTE
+     B50-22 Old Greg
+     B51-20 MaJic_NinJa
+     B52-10 Subzero_Equinox
+     B52-14 -qp- Dirk
+     B52-15 -qp- Secks
+     B52-18 Faskylen
+     B52-20 Quantum90
+     B53-03 Gharen
+     B53-04 Striker
+     B54-09 Chron D
+     B54-10 Zombchicken
+     B54-17 Reserved
+     B54-21 Belligerent Engine
+     B55-08 RazorbackHitman
+     B55-12 Killcam
+     B55-16 fatkid18
+     B55-22 smoovb
+     B56-01 Tropical Bob
+     B56-02 Wildecat
+     B56-03 Decoy
+     B56-04 I like Turtles
+     B56-05 BlackShadow10020
+     B56-12 mister susan
+     B56-18 Deathb0t
+     B57-04 NoTrino
+     B57-05 sumblackkid
+     B57-10 Reserved
+     B58-01 billyrayjoebob
+     B58-02 SkepticGinger
+     B58-05 LethalJeff
+     B58-11 Endra
+     B58-12 Singed a Song
+     B58-13 FPS_oklahoma1
+     B58-14 Rexxaur
+     B58-15 kauos
+     B59-01 robk
+     B59-03 Devo
+     B59-04 D3ATHL3SS B3AST
+     B59-05 Naejeon
+     B59-06 Evoluzions
+     B59-11 Warpuppy
+     B60-06 Nomad313
+     B60-07 ElGenerali
+     B60-08 Closeout
+     B60-09 _Auron_
+     B60-10 Alloy_dood
+     B61-03 Rolarin
+     B61-04 Spring Beans
+     B61-05 Leeko
+     B61-06 Autie
+     B61-07 WhuntCore
+     B61-10 travnewmatic
+     B61-15 remsave
+     B61-19 deflector
+     B61-21 Chronogimp
+     B61-22 Soulfyre999
+     B62-01 n3farious
+     B62-02 Reserved
+     B62-03 Swavorly
+     B62-20 Mr. President
+     B62-21 LoreDragon2
+     B62-22 Thamien
+     B63-01 MonkeeSage
+     B63-02 Judinous
+     B63-03 DoranLagann
+     B63-14 Rallans
+     B63-16 Sabre
+     B63-17 Xene
+     B63-18 Reserved
+     B63-19 Lorsen
+     B63-20 Malcolm X-mas
+     B63-21 f1ip
+     B63-22 MiggyFly
+     B64-08 mAlice
+     B64-09 Go0ch
+     B64-10 Crawdaddy
+     B64-11 Luftwaffles
+     B64-12 Reserved
+     B64-15 ZexxyBeast
+     B64-16 Tabzilla
+     B64-17 TxZar
+     B65-01 jodoBird
+     B65-02 Deadeye1337
+     B65-05 K Pop Sensation
+     B65-08 Minevra
+     B65-09 CaravanOfPikies
+     B65-10 SerialApeist
+     B65-11 No_Dice
+     B65-12 Shadez
+     B65-13 Starbuck
+     B65-15 ThrillaGorilla
+     B65-16 critical miss
+     B65-17 p1sspoorshot
+     B66-04 TheAmazingDP
+     B66-10 ScootyPuffJr
+     B66-12 Deadc3lebrity
+     B66-13 Vortaku
+     B66-19 coachshoes
+     B67-01 NightStlkr06
+     B67-05 Afrosheen19
+     B67-07 Maikanto42
+     B67-08 Rihannsu
+     B67-10 Mitchell
+     B68-01 CazyBeast2
+     B68-03 snerfu
+     B68-04 subetai
+     B68-05 shiznobot
+     B68-06 Rippled Nipples
+     B68-07 Reserved
+     B68-08 a_GiRl
+     B68-09 11UCBearcats
+     B68-10 Pants
+     B68-11 Monkeyboxer
+     B68-13 DrDrobotnix
+     B68-17 Mr.cleanmagic
+     B69-04 Moostafa
+     B69-07 Auriellric
+     B69-08 TheSweatyButcher
+     B69-10 rtchal
+     B69-15 Homen
+     B69-16 Strawberrie
+     B69-18 swax
+     B69-19 gimmedacash
+     B69-20 Knappy
+     B70-08 RisqueBarber
+     B70-14 reqless
+     B70-15 DrWizardMD
+     B70-16 Roterzahn
+     B70-17 QuickSteel
+     B70-18 Reserved
+     B70-20 Joel Buddy
+     B70-21 Meeps
+     B70-22 Klorkin9
+     B72-07 Britches
+     B73-01 Pshycoguy01
+     B73-02 SunlitRiddle
+     B73-03 SpiderDan
+     B73-10 Tubbz
+     B73-11 Nise
+     B73-12 NADER
+     B73-13 Alex
+     B73-15 BrianFantana
+     B73-16 Obesity
+     B73-21 scarletragdoll
+     B74-01 Dark Albatross
+     B74-02 Dave2point0
+     B74-03 Stanger
+     B74-04 z0d14c
+     B74-05 Miltar
+     B74-06 Simple
+     B74-07 Reserved
+     B74-08 Exgirlfrnd
+     B74-09 Reserved
+     B74-10 BeefSquatch!!
+     B74-11 TaySal
+     B74-12 NoobTeam2012
+     B74-13 El Che
+     B74-14 elvishswag
+     B74-15 Nosferaptor
+     B74-16 Lethalcoffee
+     B74-18 Lunchboxmaster777
+     B74-20 irrris
+     B74-21 austincrft
+     B74-22 AmieDoubleD
+     C09-01 JJ75
+     C09-02 Cyl0nHunter
+     C09-03 Deathbreeze
+     C09-11 Reserved
+     C10-03 Freelancer
+     C11-02 VigilantisX
+     C11-03 Jenniraffe
+     C11-05 MiP RvB Caboose
+     C12-06 MrGoodKat
+     C13-01 Scoberit
+     C13-02 Reserved
+     C13-04 death2ego
+     C13-05 mithic
+     C13-06 DR33MEZE
+     C13-07 TheCucpak3IsALie
+     C13-08 WrightTheWrong
+     C13-09 P1Z3r0
+     C13-10 jonnymuerte
+     C13-11 N3tr1k
+     C13-12 GntlmnBstrd
+     C14-03 Sandman
+     C14-05 JinXedUser
+     C14-07 Nail.exe
+     C14-08 or31lly
+     C14-09 nstinson
+     C15-04 Jhat123456
+     C15-06 Blad3
+     C16-01 plop
+     C16-02 Reserved
+     C16-09 ZSpartacusPrime
+     C16-10 samerater
+     C17-01 VaporaPhaze
+     C19-01 hortnon
+     C19-02 Dogmeat
+     C19-04 Inarius
+     C20-06 ChippyTPS
+     C21-01 temper
+     C21-02 gobosin
+     C21-03 fifytwelve
+     C21-04 Reapz
+     C21-05 unearthlyjester
+     C21-06 Catindahat
+     C22-01 Vandown
+     C23-06 Blinkxr
+     C24-01 FoeHammer
+     C24-02 GuideOwl
+     C24-03 Mediocre
+     C24-04 Commodore_Capn
+     C24-06 iamdonfullerl
+     C27-04 The Casual Wizard
+     C27-05 NukaColaQT
+     C28-03 Nestorath
+     C28-05 dboyvo
+     C28-06 inTHEhead
+     C28-07 Reserved
+     C28-08 Badpanda
+     C29-08 Upsideup
+     C29-11 DJFreezeBit
+     C29-12 Duckboy
+     C30-01 kuja396
+     C30-02 Burnin` Trees
+     C30-03 Hikari Senritsu
+     C30-07 hullokevin
+     C30-08 Reserved
+     C30-09 Reserved
+     C30-10 Dillon
+     C30-11 indoejb
+     C31-01 Poofynickels
+     C31-02 Synkro
+     C31-10 Charnutz
+     C32-05 OutClassed
+     C32-10 iddqd
+     C33-02 Skewball
+     C33-03 Reserved
+     C33-04 Reserved
+     C33-05 Tempest
+     C34-01 Dawgy
+     C34-02 ShadowFated
+     C34-03 DeadlyKitty
+     C34-04 Reserved
+     C34-05 CShotgun
+     C35-04 Reserved
+     C35-05 Fallen
+     C35-07 Rynoth
+     C35-08 bo0m
+     C36-01 di0nysus
+     C36-02 PeachOut
+     C36-03 Sketch
+     C36-04 grunt0304
+     C36-05 Rocha is PRO
+     C36-06 Shane is PRO
+     C36-07 Stefan is PRO
+     C37-04 Reserved
+     C37-08 Drakkheim
+     C37-10 BANDN3RD
+     C38-11 FearGarden
+     C40-01 FuzzyCthulhu
+     C41-08 Stinkerbelle
+     C41-09 HavokSIXX
+     C41-11 Justincasemccrary
+     C43-03 ph03nix42
+     C44-06 TatteredRagDoll
+     C44-09 Chernobyl Noble
+     C44-10 Thuneral
+     C44-11 Radar
+     C44-12 Seymour Bodies
+     C45-07 Funke
+     C45-08 Mega386
+     C45-09 Reserved
+     C45-10 Shanno
+     C45-11 Deuce
+     C46-01 cheeba kid
+     C46-07 thedefector
+     C47-01 AJTexas
+     C47-02 Reserved
+     C47-06 Faust
+     C47-08 Dimmadome
+     C48-01 Deadlydatsun
+     C48-02 LAMPAK
+     C48-03 Syph0n
+     C49-01 Reserved
+     C49-02 Dadio17
+     C49-12 TrixterDoc-OrtPro
+     C50-06 Kung Fury
+     C50-07 RequiesNinja
+     C50-08 Reserved
+     C51-03 Zizach
+     C51-11 McSlashed
+     C51-12 Ketchup0117
+     C52-11 Reserved
+     C52-12 Epefod
+     C53-03 Austin
+     C53-05 B0n3
+     C53-06 Reserved
+     C53-09 Falafel
+     C53-10 Nms
+     C53-12 xm4n
+     C55-04 iamkevbot
+     C55-05 Bishbashbosh
+     C55-08 GURU_M1CAH
+     C55-12 Cydny
+     C56-01 J3ST3R-M4A3
+     C56-02 Mead
+     C56-11 Midrogue
+     C56-12 Kameleon
+     C58-05 Marty-Mar
+     C58-06 Reserved
+     C58-07 Reserved
+     C60-01 Fluffy
+     C60-02 Cheeto
+     C60-03 Reserved
+     C61-07 Reserved
+     C61-11 Reserved
+     C61-12 Super Soaker
+     C62-05 morhavoc
+     C62-08 Cobb
+     C62-09 Oktosh
+     C62-11 Crims0nWave
+     C62-12 jakebasile
+     C63-06 Reserved
+     C63-07 shelbyWHATT
+     C63-08 DrRichter89
+     C63-09 Mac
+     C63-10 Synessa
+     C64-02 Aevenath
+     C64-03 Not0The0One00
+     UAC-12 Trunks
+     UAC-16 Portman
+     UAC-18 XANADV
+     UAC-20 Viking Lord
+     UAC-21 Clandestine Fox
+     UAC-24 jayseaz
+     UAC-25 Hambone
+     UAC-27 Reserved
+     UAC-28 Gamezguy71
+     UAC-29 Ciscokid454
+     UAC-32 H20 Trauma

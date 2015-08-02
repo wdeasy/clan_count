@@ -6,7 +6,8 @@ require 'radix'
 
 puts "quakecon clan counts as of #{Time.now.strftime("%m/%d/%Y %H:%M")}"
 
-string = "https://registration.quakecon.org/?action=byoc_data&response_type=json"
+#string = "https://registration.quakecon.org/?action=byoc_data&response_type=json"
+string = "2014.json"
 
 parsed = JSON.parse(open(string).read)
 
